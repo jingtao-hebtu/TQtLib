@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/LogoTopOneDark.svg</file>
+        <file>Images/tju.svg</file>
+
+        <!-- Base -->
+        <file>Icons/Base/svg/NoImg.svg</file>
+
+        <file>Icons/Base/png/NoImg.png</file>
+
+        <!-- System -->
+        <file>Icons/SystemButtons/svg/Minimize.svg</file>
+        <file>Icons/SystemButtons/svg/Maximize.svg</file>
+        <file>Icons/SystemButtons/svg/Close.svg</file>
+        <file>Icons/SystemButtons/svg/Restore.svg</file>
+
+        <file>Icons/SystemButtons/png/Minimize.png</file>
+        <file>Icons/SystemButtons/png/Maximize.png</file>
+        <file>Icons/SystemButtons/png/Close.png</file>
+        <file>Icons/SystemButtons/png/Restore.png</file>
+
+        <!-- Customized -->
+        <file>Icons/Customized/svg/Search.svg</file>
+        <file>Icons/Customized/svg/Setting.svg</file>
+
+        <file>Icons/Customized/png/Search.png</file>
+        <file>Icons/Customized/png/Setting.png</file>
+
+        <!-- Left Menu -->
+        <file>Icons/LeftMenu/svg/Menu.svg</file>
+        <file>Icons/LeftMenu/svg/MenuActive.svg</file>
+        <file>Icons/LeftMenu/svg/MenuClose.svg</file>
+        <file>Icons/LeftMenu/svg/Home.svg</file>
+        <file>Icons/LeftMenu/svg/Widgets.svg</file>
+        <file>Icons/LeftMenu/svg/OpenFolder.svg</file>
+        <file>Icons/LeftMenu/svg/Video.svg</file>
+        <file>Icons/LeftMenu/svg/Save.svg</file>
+        <file>Icons/LeftMenu/svg/Info.svg</file>
+        <file>Icons/LeftMenu/svg/Settings.svg</file>
+
+        <file>Icons/LeftMenu/png/Menu.png</file>
+        <file>Icons/LeftMenu/png/MenuActive.png</file>
+        <file>Icons/LeftMenu/png/MenuClose.png</file>
+        <file>Icons/LeftMenu/png/Home.png</file>
+        <file>Icons/LeftMenu/png/Widgets.png</file>
+        <file>Icons/LeftMenu/png/OpenFolder.png</file>
+        <file>Icons/LeftMenu/png/Video.png</file>
+        <file>Icons/LeftMenu/png/Save.png</file>
+        <file>Icons/LeftMenu/png/Info.png</file>
+        <file>Icons/LeftMenu/png/Settings.png</file>
+
+        <!-- Left Column -->
+        <file>Icons/LeftColumn/svg/Close.svg</file>
+
+        <file>Icons/LeftColumn/png/Close.png</file>
+    </qresource>
+</RCC>
